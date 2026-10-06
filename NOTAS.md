@@ -1,0 +1,1 @@
+Este arbol de directorios se configuro por defecto al ejecutar en el cmd el comando **npm init playwright@latest**
